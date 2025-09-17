@@ -1,0 +1,6 @@
+.idea/
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
